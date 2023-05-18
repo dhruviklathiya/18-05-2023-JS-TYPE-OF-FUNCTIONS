@@ -1,0 +1,5 @@
+Normal Function
+parameterized function [ with argument & without argument ]
+return function
+without return function
+auto render [ auto call when page is render ]
